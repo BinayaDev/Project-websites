@@ -7,3 +7,4 @@
 6. [js30](https://javascript30.com/)
 7. sth
 8. new sth
+9. tried git push -u origin main
