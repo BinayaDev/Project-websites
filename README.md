@@ -6,3 +6,4 @@
 5. [icodethis](https://icodethis.com/pro-challenges)
 6. [js30](https://javascript30.com/)
 7. sth
+8. new sth
