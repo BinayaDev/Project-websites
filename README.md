@@ -6,3 +6,6 @@
 5. [icodethis](https://icodethis.com/pro-challenges)
 6. [js30](https://javascript30.com/)
 7. binaya commit
+7. sth
+8. new sth
+9. tried git push -u origin main
